@@ -1,0 +1,20 @@
+{
+  "name": "GLITCHED Web PWA",
+  "short_name": "WebPWA",
+  "start_url": "./Index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#FF0000",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/GLITCHED-OVERRIDE/Web-store/refs/heads/main/Assets/Icons/Web%20Play.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/GLITCHED-OVERRIDE/Web-store/refs/heads/main/Assets/Icons/Web%20Play.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
